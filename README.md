@@ -13,28 +13,29 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+
 QR code component- The first and easiest challenge that one can do on Frontend Mentor. I accepted this challenge and present you *my solution* of the challenge.
 
 I made this static website using basic HTML5 and CSS3 as for now that is what I know. I tried my best to be exact in design and I hope you like it.
 
 ### Screenshot
 
-<figure align="center">
+<div align="center">
   <img src="screenshots/Desktop-view.jpeg" alt="Mobile-View" width="100%">
-  <figcaption>Desktop View</figcaption>
-</figure>
+  <p>Desktop View</p>
+</div>
 <br>
-<figure align="center">
+<div align="center">
   <img src="screenshots/Mobile-view.jpeg" alt="Mobile-View" width="150">
-  <figcaption>Mobile View</figcaption>
-</figure>
+  <p>Mobile View</p>
+</div>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://qr-code-component-karancy.netlify.app/)
 
 ## My process
+
 I started by deciding how many divs I want:
 * one for wrapping my qr-card i.e background of my main element. {**class="wrapper"**}
 * one for the actual card i.e. the container that'll contain my image and text. {**class="container"**}
