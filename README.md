@@ -19,14 +19,14 @@ I made this static website using basic HTML5 and CSS3 as for now that is what I 
 
 ### Screenshot
 
-<figure style="margin: auto; width: 100%;">
+<figure align="center">
   <img src="screenshots/Desktop-view.jpeg" alt="Mobile-View" width="100%">
-  <figcaption style="text-align: center;">Desktop View</figcaption>
+  <figcaption>Desktop View</figcaption>
 </figure>
 <br>
-<figure style="margin: auto; width: 150px;">
+<figure align="center">
   <img src="screenshots/Mobile-view.jpeg" alt="Mobile-View" width="150">
-  <figcaption style="text-align: center;">Mobile View</figcaption>
+  <figcaption>Mobile View</figcaption>
 </figure>
 
 ### Links
