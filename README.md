@@ -32,22 +32,25 @@ I made this static website using basic HTML5 and CSS3 as for now that is what I 
 
 ### Links
 
-- Live Site URL: [QR Code Component](https://qr-code-component-karancy.netlify.app/)
+- Solution Site URL: *[My Solution](https://www.frontendmentor.io/solutions/qr-code-component-JLg0LBRiB_)*
+- Live Site URL: *[QR Code Component](https://qr-code-component-karancy.netlify.app/)*
 
 ## My process
 
 I started by deciding how many divs I want:
-* one for wrapping my qr-card i.e background of my main element. {**class="wrapper"**}
 * one for the actual card i.e. the container that'll contain my image and text. {**class="container"**}
-* one for my text specifically. {**class="qr-text"**}
-* one for my footer. {**class="attribution"**}
+  - one image tag for QR code.
+  - one h1 tag for main heading.
+  - one p tag for summary.
+* one for my footer.
 
-Then I used CSS properties to put margin, padding, color, shadows, etc. to style it. Also, I used CSS position properties relative and absolute to center my content.
+Then I used CSS properties to put margin, padding, color, shadows, etc. to style it. Also, I used CSS position properties and Flexbox to center my content.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flexbox
 
 ## Author
 
